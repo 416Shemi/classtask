@@ -38,3 +38,11 @@
     color: white;
     font-size: 32px;
 }
+.text2{
+    height: 90vh;
+    width: 100%;
+    background-color:white;
+}
+.text-black-50{
+    color: black;
+}
